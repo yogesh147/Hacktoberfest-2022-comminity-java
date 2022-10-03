@@ -10,7 +10,7 @@ This is Hacktoberfest open source repository for contribution of open source com
 
 ## Creating my first pull request.
 1.  Signin into your github account.
-2.  Fork https://github.com/yogesh147/Hacktoberfest-2022-comminity-java) repository 
+2.  Fork https://github.com/yogesh147/Hacktoberfest-2022-comminity-java repository 
 3.  Go to the repository in your own account (\<your-username\>/Hacktoberfest-2022-comminity-java)
 4.  Checkout to master branch
 5.  Take latest pull from main using command :-  git pull origin main
