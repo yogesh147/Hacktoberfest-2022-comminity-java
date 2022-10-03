@@ -17,8 +17,8 @@ This is Hacktoberfest open source repository for contribution of open source com
 6.  Now add you code on new file or update any other changes 
 7.  Then Take again latest pull from main using command :-  git pull origin main
 8.  After, commit that code and push into master repository
-9.  Add label "HACKTOBERFEST-ACCEPTED." in your PR has a label
-10. After that create pull request against main branch
+9.  Add label "HACKTOBERFEST-ACCEPTED." in your Pull Request
+10. After that create pull request against main branch.
 
 ## Meeting the target
 > You have to meet the target of minimum of 4 Pull Requests to complete the challenge successfully.
